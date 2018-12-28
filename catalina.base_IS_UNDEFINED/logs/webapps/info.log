@@ -1,0 +1,6 @@
+2018-12-28 15:03:53.121[main]INFO com.imooc.o2o.service.AreaServiceTest - Starting AreaServiceTest on 萝卜没有丁 with PID 19356 (started by 萝卜丁 in D:\springboot\o2o)
+2018-12-28 15:03:53.135[main]INFO com.imooc.o2o.service.AreaServiceTest - No active profile set, falling back to default profiles: default
+2018-12-28 15:03:58.731[main]INFO com.imooc.o2o.service.AreaServiceTest - Started AreaServiceTest in 6.075 seconds (JVM running for 7.696)
+2018-12-28 15:05:46.791[main]INFO com.imooc.o2o.dao.AreaDaoTest - Starting AreaDaoTest on 萝卜没有丁 with PID 13872 (started by 萝卜丁 in D:\springboot\o2o)
+2018-12-28 15:05:46.793[main]INFO com.imooc.o2o.dao.AreaDaoTest - No active profile set, falling back to default profiles: default
+2018-12-28 15:05:51.552[main]INFO com.imooc.o2o.dao.AreaDaoTest - Started AreaDaoTest in 5.104 seconds (JVM running for 6.108)
