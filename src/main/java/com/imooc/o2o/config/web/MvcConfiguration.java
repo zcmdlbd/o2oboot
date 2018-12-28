@@ -24,7 +24,7 @@ import com.google.code.kaptcha.servlet.KaptchaServlet;
 /**
  * 开启Mvc,自动注入spring容器。 WebMvcConfigurerAdapter：配置视图解析器
  * 当一个类实现了这个接口（ApplicationContextAware）之后，这个类就可以方便获得ApplicationContext中的所有bean
- * 
+ * 是是是
  * @author 萝卜丁
  *
  */
